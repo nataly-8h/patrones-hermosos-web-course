@@ -3,7 +3,7 @@
 - Antes de comenzar necesitamos un editor de texto puedes usar notepad o textedit pero yo recomiendo que descarguen [Visual Studio Code](https://code.visualstudio.com/download).
  - Puedes encontrar más información [aqui](https://www.w3schools.com/js/default.asp).
 
-** ¿Que es Java Script?
+**¿Que es Java Script?**
 
 Java Script es un lenguaje de programación en el que se pueden implementar funciones más complejas para las páginas web. 
 Java Script puede actualizar tanto HTML como CSS, y por esto se puede observar como la tercera capa de un pastel de Web 
@@ -17,7 +17,7 @@ Java Script puede actualizar tanto HTML como CSS, y por esto se puede observar c
 -	Java Script es el comportamiento de las paginas web
 
 
-** Variables 
+### Variables 
 
 Los tipos de datos más comunes en java script son:
  - Números 
@@ -51,7 +51,7 @@ Los tipos de datos más comunes en java script son:
     var y = true; 
     ```
 
-** Hola Mundo
+### Hola Mundo
 Hola mundo usando Javascript
 1. Abre Visual Studio Code
 2. Crea una carpeta donde quieras guardar este ejemplo
@@ -82,7 +82,7 @@ En este archivo pon lo siguiente:
     
 6.  Listo! Ya tienes un “Hola mundo” utilizando Java Script. Puedes provarlo abriendo el archivo html desde tu explorador de archivos 
 
-** Console log
+### Console log
 Console log muestra un mensaje desde la consola web. La puedes ver desde inspector en la página, puedes abrirlo el menú de Web Developer con ctrl + shift + I (Windows) o cmd + option + C (Mac OS): 
 
 ```javascript

@@ -35,10 +35,14 @@ Los tipos de datos más comunes en java script son:
     ```javascript
     var a = {edad: 18, nombre: ‘Verónica’}; 
     ```
+ - Booleanos
+    ```javascript
+    var y = true; 
+    ```
  - Arreglos
     ```javascript
     var sabores = [“Chocolate”, “Fresa”, “Vainilla”];  //Arreglo de strings
-    var sonAceptados = [true, false, false, false]; 
+    var arregloDeBooleanos = [true, false, false, false]; 
     ```
  - Funciones
     ```javascript
@@ -46,10 +50,7 @@ Los tipos de datos más comunes en java script son:
         return a + b; 
     }
     ```
- - Booleanos
-    ```javascript
-    var y = true; 
-    ```
+
 
 ### Hola Mundo
 Hola mundo usando Javascript
